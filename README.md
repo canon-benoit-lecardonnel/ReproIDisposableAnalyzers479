@@ -6,3 +6,4 @@ Notes
 * In the `csproj` file, warnings are treated as errors
 * The build passes in Visual Studio 2022
 * The build fails when running `dotnet build`
+* In `Program.cs`, some commented out code creates an `IDisposable`
